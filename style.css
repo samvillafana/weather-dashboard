@@ -5,8 +5,8 @@
 }
 
 .main-container {
-    display: flex;
-    justify-content: flex-;
+    display:flex;
+    
 
 }
 
@@ -30,6 +30,6 @@ width: 100%;
 
   }
   .card{ 
-    background-color: #232d34;
-    color: white;
+    background-color: #232d34 !important;
+    color: white !important;
   }
